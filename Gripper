@@ -1,0 +1,5 @@
+SetServoPosition(1,0) 
+
+SetServoPosition(1,45) 
+
+SetServoPosition(1,90) 
